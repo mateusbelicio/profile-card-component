@@ -22,12 +22,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/mobile-result.png)
 
 ### Links
 
 - 🔗 [Solution URL](https://github.com/mateusbelicio/profile-card-component)
-- 🔗 [Live Site URL](https://mateusbelicio/github.io/profile-card-component)
+- 🔗 [Live Site URL](https://mateusbelicio.github.io/profile-card-component/)
 
 ## My process
 
