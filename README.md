@@ -1,20 +1,18 @@
-# Frontend Mentor - Profile card component solution
-
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+<div align="center">
+  <img align="right" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="Frontendmentor icon" />
+  <h2 align="left">Frontend Mentor - Profile card component solution</h2>
+</div>
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+<!-- ![My Profile](https://img.shields.io/badge/Status-building-blue?style=flat) -->
+![My Profile](https://img.shields.io/badge/Status-finished-green?style=flat)
+&dot;
+[![Status](https://img.shields.io/website?label=Website&down_color=inactive&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmateusbelicio.github.io/profile-card-component)](https://mateusbelicio.github.io/profile-card-component) 
+&dot;
+[![My Profile](https://img.shields.io/badge/Profile-Mateus_Belicio-282C2E?style=flat&logo=frontendmentor)](https://www.frontendmentor.io/profile/mateusbelicio)
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-## Overview
+---
 
 ### The challenge
 
@@ -24,13 +22,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![](./design/mobile-result.png)
 
-### Links
-
-- 🔗 [Solution URL](https://github.com/mateusbelicio/profile-card-component)
-- 🔗 [Live Site URL](https://mateusbelicio.github.io/profile-card-component/)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -38,6 +29,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 - CSS Grid
 
-## Author
+---
+
+### Author
 
 - Frontend Mentor - [@mateusbelicio](https://www.frontendmentor.io/profile/mateusbelicio)
+- Linkedin - [@mateusbelicio](https://www.linkedin.com/in/mateusbelicio)
